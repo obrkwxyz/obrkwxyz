@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Kane @obrkwxyz
 - 👀  I’m interested in Electrical & Mechatronic Engineering
-- 🌱  I’m currently studying at the University of South Australia
+- 🌱  I’m currently studying at the University of Adelaide
 - 📫  Drop a line at - https://www.obrkw.xyz
 
 <!---
